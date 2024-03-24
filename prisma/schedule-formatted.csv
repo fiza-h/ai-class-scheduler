@@ -1,0 +1,18 @@
+code,course,teacher,program,lecDay,lecTime,labDay,labTime
+71196,0,faisal iradat,bscs,0,0,0,1
+75903,0,zain uddin,bscs,0,1,0,2
+75920,0,salman zafar,bscs,1,1,1,2
+95912,0,salman zafar,bscs,1,4,2,4
+96056,1,wahab suri,bscs,0,0,-1,-1
+71190,1,moiz hasan,bscs,0,1,-1,-1
+71187,1,amana raquib,bscs,0,1,-1,-1
+75904,2,waseem arain,bscs,0,2,0,4
+75912,2,asma tauqir,bscs,1,0,1,1
+75916,2,tasbiha,bscs,1,1,1,2
+75913,3,ali raza,bscs,1,0,-1,-1
+75921,3,sumera,bscs,1,1,-1,-1
+75911,3,ali raza,bscs,0,2,-1,-1
+71194,3,sumera,bscs,0,4,-1,-1
+71207,4,shahid hussain,bscs,0,5,-1,-1
+96062,4,imran rauf,bscs,2,4,-1,-1
+71206,4,imran rauf,bscs,2,5,-1,-1
